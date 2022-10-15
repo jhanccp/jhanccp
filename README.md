@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jhan Carlo Cossio</h1>
 <h3 align="center">A passionate frontend developer from Colombia</h3>
 
-- 🌱 I’m currently learning **angular,vue**
+- 🌱 I’m currently learning **ReactJS**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
